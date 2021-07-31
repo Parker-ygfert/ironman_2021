@@ -1,0 +1,2 @@
+CREATE DATABASE `ironman_2021_development` CHARACTER SET utf8mb4;
+CREATE DATABASE `ironman_2021_test` CHARACTER SET utf8mb4;
